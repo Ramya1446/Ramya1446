@@ -46,10 +46,10 @@
 <p align="center">
 
 <!-- MAIN STATS -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ramya1446&show_icons=true&theme=radical" />
 
 <!-- STREAK -->
-<img height="170" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
+<img height="170" src="https://streak-stats.demolab.com/?user=YOUR_Ramya1446&theme=radical" />
 
 </p>
 
@@ -57,7 +57,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ramya1446&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
 
 ---
