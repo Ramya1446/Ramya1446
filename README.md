@@ -45,8 +45,6 @@
 
 <p align="center">
 
-<!-- MAIN STATS -->
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ramya1446&show_icons=true&theme=radical" />
 
 <!-- STREAK -->
 <img height="170" src="https://streak-stats.demolab.com?user=Ramya1446&theme=radical" />
