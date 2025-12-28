@@ -62,6 +62,13 @@
 
 ---
 
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ramya1446&style=for-the-badge&color=8A2BE2">
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 - 🔗 AI Mail / Report Generator — LLaMA-3 + Gen-AI  
