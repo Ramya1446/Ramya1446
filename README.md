@@ -46,10 +46,10 @@
 <p align="center">
 
 <!-- MAIN STATS -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ramya1446&show_icons=true&theme=radical" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ramya1446&show_icons=true&theme=radical" />
 
 <!-- STREAK -->
-<img height="170" src="https://streak-stats.demolab.com/?user=Ramya1446&theme=radical" />
+<img height="170" src="https://streak-stats.demolab.com?user=Ramya1446&theme=radical" />
 
 </p>
 
@@ -62,12 +62,6 @@
 
 ---
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramya1446&style=for-the-badge&color=8A2BE2">
-</p>
-
----
 
 ## 🚀 Featured Projects
 
