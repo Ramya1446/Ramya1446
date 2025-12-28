@@ -60,7 +60,6 @@
 - 🔗 AuthX — Blockchain + AI tamper detection  
 - 🔗 DressFit — AR Avatar customization  
 
-_(We’ll add repo links later 👍)_
 
 ---
 
