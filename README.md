@@ -49,7 +49,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ramya1446&show_icons=true&theme=radical" />
 
 <!-- STREAK -->
-<img height="170" src="https://streak-stats.demolab.com/?user=YOUR_Ramya1446&theme=radical" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Ramya1446&theme=radical" />
 
 </p>
 
