@@ -1,22 +1,23 @@
-<!-- HEADER WAVE -->
+<!-- Header -->
+<h1 align="center">✨ Hey — I'm Ramya! ✨</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Hey%20👋%20I'm%20Ramya!&fontSize=40&fontColor=ffffff" />
+  <b>CSE + AI Student • Gen-AI Builder • Research → Prototype Enthusiast</b>
 </p>
 
-<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F5FFF&center=true&width=550&lines=AI+%26+Generative+AI+Developer;LLM+Agents+%7C+LangChain;Cloud+%7C+AWS+%7C+ML+Projects;Always+building+%7C+Always+learning">
+  I love experimenting with LLMs, autonomous agents, RAG systems, and 
+  building tools that actually solve real problems 🚀
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌟 What I’m Into
 
-- 🎓 CSE + AI student  
-- 🤖 Working with Generative AI, LLM agents & NLP  
-- ☁️ Deploying ML tools using AWS  
-- 🎮 Valorant fan — curious about AI in games  
-- 🚀 Love turning research ideas into working prototypes
+- 🤖 Generative AI, LLM Agents & NLP
+- ☁️ Deploying ML tools on AWS
+- 🧪 Turning research papers into working demos
+- 🎮 Curious about AI in gaming (especially Valorant!)
 
 ---
 
@@ -25,8 +26,8 @@
 ### 🤖 AI / ML / Gen-AI
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2)
 ![NLP](https://img.shields.io/badge/NLP-4c9aff)
 
 ### 🌍 Web & Apps
@@ -41,40 +42,35 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-
-<!-- STREAK -->
-<img height="170" src="https://streak-stats.demolab.com?user=Ramya1446&theme=radical" />
-
-</p>
-
----
-
-
 ## 🚀 Featured Projects
 
-- 🔗 AI Mail / Report Generator — LLaMA-3 + Gen-AI  
-- 🔗 AuthX — Blockchain + AI tamper detection  
-- 🔗 DressFit — AR Avatar customization  
+🔗 **AI Mail / Report Generator**  
+LLama-3 powered assistant that drafts emails & reports using Gen-AI.
 
+🔗 **AuthX — Blockchain + AI Security**  
+AI-powered tamper detection with blockchain audit trails.
 
----
-
-## 📬 Connect With Me
-
-📧 rramya1446@gmail.com  
-🔗 Portfolio: [PORTFOLIO](https://ramyanakshathra.netlify.app/)
-💼 LinkedIn: [LINKEDIN](https://www.linkedin.com/in/ramya-nakshathra/)
+🔗 **DressFit — AR Avatar Customization**  
+Customize avatars with measurements to visualize outfits.
 
 ---
+
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8A2BE2">
+<img src="https://github-readme-stats.vercel.app/api?username=Ramya144&show_icons=true&theme=radical" />
 </p>
 
+---
+
+## 📬 Let’s Connect
+
+📧 **Email:** rramya1446@gmail.com  
+🌐 **Portfolio:** https://ramyanakshathra.netlify.app/  
+💼 **LinkedIn:** https://www.linkedin.com/in/ramya-nakshathra/
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+  ⭐ If you like my work, consider starring a repo — it motivates me!
 </p>
