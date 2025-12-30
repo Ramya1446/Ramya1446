@@ -1,6 +1,6 @@
 <!-- HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Hey%20👋%20I'm%20Ramya!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F5FFF&height=200&section=header&text=Hey%20👋%20I'm%20Ramya!&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- TYPING EFFECT -->
@@ -67,8 +67,8 @@
 ## 📬 Connect With Me
 
 📧 rramya1446@gmail.com  
-🔗 Portfolio: [YOUR_PORTFOLIO](https://ramyanakshathra.netlify.app/) 
-💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/ramya-nakshathra/)  
+🔗 Portfolio: [MY_PORTFOLIO](https://ramyanakshathra.netlify.app/) 
+💼 LinkedIn: [MY_LINKEDIN](https://www.linkedin.com/in/ramya-nakshathra/)  
 
 ---
 
