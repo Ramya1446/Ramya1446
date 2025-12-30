@@ -1,33 +1,21 @@
-<!-- Header -->
-<h1 align="center">✨ Hey — I'm Ramya! ✨</h1>
+--- 
+## 🌟 About Me 
 
-<p align="center">
-  <b>CSE + AI Student • Gen-AI Builder • Research → Prototype Enthusiast</b>
-</p>
-
-<p align="center">
-  I love experimenting with LLMs, autonomous agents, RAG systems, and 
-  building tools that actually solve real problems 🚀
-</p>
+- 🎓 CSE + AI student  
+- 🤖 Working with Generative AI, LLM agents & NLP  
+- ☁️ Deploying ML tools using AWS  
+- 🎮 Valorant fan — curious about AI in games  
+- 🚀 Love turning research ideas into working prototypes  
 
 ---
 
-## 🌟 What I’m Into
-
-- 🤖 Generative AI, LLM Agents & NLP
-- ☁️ Deploying ML tools on AWS
-- 🧪 Turning research papers into working demos
-- 🎮 Curious about AI in gaming (especially Valorant!)
-
----
-
-## 🧠 Tech Stack
+## 🧠 Tech Stack 
 
 ### 🤖 AI / ML / Gen-AI
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4c9aff)
 
 ### 🌍 Web & Apps
@@ -42,35 +30,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
+---
+
 ## 🚀 Featured Projects
 
-🔗 **AI Mail / Report Generator**  
-LLama-3 powered assistant that drafts emails & reports using Gen-AI.
-
-🔗 **AuthX — Blockchain + AI Security**  
-AI-powered tamper detection with blockchain audit trails.
-
-🔗 **DressFit — AR Avatar Customization**  
-Customize avatars with measurements to visualize outfits.
+- 🔗 AI Mail / Report Generator — LLaMA-3 + Gen-AI  
+- 🔗 AuthX — Blockchain + AI tamper detection  
+- 🔗 DressFit — AR Avatar customization  
 
 ---
 
-## 📊 GitHub Snapshot
+## 📬 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ramya144&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 📬 Let’s Connect
-
-📧 **Email:** rramya1446@gmail.com  
-🌐 **Portfolio:** https://ramyanakshathra.netlify.app/  
-💼 **LinkedIn:** https://www.linkedin.com/in/ramya-nakshathra/
+📧 rramya1446@gmail.com  
+🔗 Portfolio: https://ramyanakshathra.netlify.app/  
+💼 LinkedIn: https://www.linkedin.com/in/ramya-nakshathra/
 
 ---
-
-<p align="center">
-  ⭐ If you like my work, consider starring a repo — it motivates me!
-</p>
