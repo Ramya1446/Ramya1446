@@ -1,14 +1,11 @@
 <!-- HEADER WAVE -->
-<div>
-  <svg viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg">
-    <path fill="#6A5ACD" d="M0,64L60,74.7C120,85,240,107,360,112C480,117,600,107,720,96C840,85,960,75,1080,69.3C1200,64,1320,64,1380,64L1440,64L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"></path>
-  </svg>
-</div>
-
-<h1 align="center">🌟 Hey — I'm Ramya</h1>
-
 <p align="center">
-  <b>CSE + AI • Generative AI • LLMs • NLP • AWS</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Hey%20👋%20I'm%20Ramya!&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F5FFF&center=true&width=550&lines=AI+%26+Generative+AI+Developer;LLM+Agents+%7C+LangChain;Cloud+%7C+AWS+%7C+ML+Projects;Always+building+%7C+Always+learning">
 </p>
 
 ---
@@ -16,10 +13,10 @@
 ## 🌟 About Me
 
 - 🎓 CSE + AI student  
-- 🤖 Working with Generative AI, LLM Agents & NLP  
+- 🤖 Working with Generative AI, LLM agents & NLP  
 - ☁️ Deploying ML tools using AWS  
 - 🎮 Valorant fan — curious about AI in games  
-- 🚀 Love turning research ideas into working prototypes  
+- 🚀 Love turning research ideas into working prototypes
 
 ---
 
@@ -28,13 +25,13 @@
 ### 🤖 AI / ML / Gen-AI
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4c9aff)
 
 ### 🌍 Web & Apps
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
 ### ☁️ Cloud & Tools
@@ -44,31 +41,49 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-- 🔗 **AI Mail / Report Generator** — LLaMA-3 + Gen-AI  
-- 🔗 **AuthX** — Blockchain + AI tamper detection  
-- 🔗 **DressFit** — AR Avatar customization  
+<p align="center">
+
+<!-- MAIN STATS -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+
+<!-- STREAK -->
+<img height="170" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
+
+</p>
 
 ---
 
-## 📊 GitHub Snapshot
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramya144&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔗 AI Mail / Report Generator — LLaMA-3 + Gen-AI  
+- 🔗 AuthX — Blockchain + AI tamper detection  
+- 🔗 DressFit — AR Avatar customization  
+
+_(We’ll add repo links later 👍)_
 
 ---
 
 ## 📬 Connect With Me
 
 📧 rramya1446@gmail.com  
-🌐 Portfolio — https://ramyanakshathra.netlify.app/  
-💼 LinkedIn — https://www.linkedin.com/in/ramya-nakshathra/
+🔗 Portfolio: YOUR_PORTFOLIO  
+💼 LinkedIn: YOUR_LINKEDIN  
 
-<!-- FOOTER WAVE -->
-<div>
-  <svg viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg">
-    <path fill="#6A5ACD" d="M0,64L60,74.7C120,85,240,107,360,112C480,117,600,107,720,96C840,85,960,75,1080,69.3C1200,64,1320,64,1380,64L1440,64L1440,120L1380,120C1320,120,1200,120,1080,120C960,120,840,120,720,120C600,120,480,120,360,120C240,120,120,120,60,120L0,120Z"></path>
-  </svg>
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8A2BE2">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+</p>
