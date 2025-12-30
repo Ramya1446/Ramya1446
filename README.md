@@ -12,8 +12,8 @@
 
 ## 🌟 About Me
 
-- 🎓 CSE + AI student  
-- 🤖 Working with Generative AI, LLM agents & NLP  
+- 🎓 CSE student  
+- 🤖 Working with Blockchain, ML, Generative AI, LLM agents & NLP  
 - ☁️ Deploying ML tools using AWS  
 - 🎮 Hardcore gaming 
 - 🚀 Love turning research ideas into working prototypes
@@ -61,15 +61,14 @@
 - 🔗 AuthX — Blockchain + AI tamper detection  
 - 🔗 DressFit — AR Avatar customization  
 
-_(We’ll add repo links later 👍)_
 
 ---
 
 ## 📬 Connect With Me
 
 📧 rramya1446@gmail.com  
-🔗 Portfolio: YOUR_PORTFOLIO  
-💼 LinkedIn: YOUR_LINKEDIN  
+🔗 Portfolio: [YOUR_PORTFOLIO](https://ramyanakshathra.netlify.app/) 
+💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/ramya-nakshathra/)  
 
 ---
 
