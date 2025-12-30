@@ -15,7 +15,7 @@
 - 🎓 CSE + AI student  
 - 🤖 Working with Generative AI, LLM agents & NLP  
 - ☁️ Deploying ML tools using AWS  
-- 🎮 Valorant fan — curious about AI in games  
+- 🎮 Hardcore gaming 24/7
 - 🚀 Love turning research ideas into working prototypes
 
 ---
