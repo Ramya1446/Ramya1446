@@ -15,7 +15,7 @@
 - 🎓 CSE student  
 - 🤖 Working with Blockchain, ML, Generative AI, LLM agents & NLP  
 - ☁️ Deploying ML tools using AWS  
-- 🎮 Hardcore gaming 
+- 🎮 Hardcore gamer 
 - 🚀 Love turning research ideas into working prototypes
 
 ---
