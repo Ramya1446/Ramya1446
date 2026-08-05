@@ -10,7 +10,7 @@ Building intelligent software with AI, cloud technologies, and modern web experi
 
 <p align="center">
 
-<a href="https://ramyanakshathra.netlify.app">
+<a href="https://its-ramyanakshathra.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-EDE9FE?style=for-the-badge&logo=vercel&logoColor=6D28D9"/>
 </a>
 
