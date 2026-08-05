@@ -146,7 +146,7 @@ Automates professional reports and emails using Large Language Models.
 
 <p align="center">
 
-<a href="[https://its_ramyanakshathra.netlify.app](https://its-ramyanakshathra.netlify.app/)">
+<a href="https://its-ramyanakshathra.netlify.app/">
 
 <img src="https://img.shields.io/badge/Portfolio-EDE9FE?style=for-the-badge&logo=vercel&logoColor=6D28D9"/>
 
