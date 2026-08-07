@@ -48,15 +48,6 @@ An AI-powered digital content authentication platform combining blockchain verif
 
 ---
 
-## 🤖 TrustOS *(Currently Building)*
-
-A multi-agent AI platform that evaluates websites, products, freelancers, companies, and legal contracts through intelligent trust analysis.
-
-**Tech**
-
-`Python` • `React` • `LLMs` • `RAG` • `AI Agents`
-
----
 
 ## 👗 DressFit
 
@@ -137,7 +128,6 @@ Automates professional reports and emails using Large Language Models.
 - 📄 IEEE Conference Publication
 - 🤖 IBM Generative AI Certification
 - 💡 Patent Filed
-- 🚀 Building TrustOS
 - 💻 Passionate about AI-powered Software Engineering
 
 ---
